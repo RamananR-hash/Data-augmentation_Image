@@ -1,5 +1,6 @@
 # Data-augmentation_Image
-Data augmentation_Image_Scaling_Fliping_Rotate
+Data augmentation_Image_Scaling_Fliping_Rotate_and _Gaussian_blur
+
 
 
 
